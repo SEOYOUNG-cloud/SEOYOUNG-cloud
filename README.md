@@ -65,7 +65,7 @@ Here are some ideas to get you started:
         /> 
       </br>
       <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;"></h3><div ">
-       <h5>💡used as least once</h5>
+       <h5>💡used at least once</h5>
       <img
           key=687884.8130506051
           style = "margin: 5px 5px;"
