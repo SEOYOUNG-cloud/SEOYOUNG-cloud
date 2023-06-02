@@ -28,27 +28,18 @@ Here are some ideas to get you started:
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
   <div key="4">
   <h3 align="center">📚 Tech Stack 📚</h3>
-    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;"></h3><div "><img
+    <h5>💡used as the main</h5>
+    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;"></h3><div ">
+      <img
           key=775897.2093996631
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/java-26689A?style=flat-square&logo=java&logoColor=white
           alt=""
-        /> <img
-          key=687884.8130506051
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/python-3581ba?style=flat-square&logo=python&logoColor=white
-          alt=""
         />
-      </br>
       <img
           key=214663.36752144207
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white
-          alt=""
-        /> <img
-          key=736368.773299301
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white
           alt=""
         /> <img
           key=950695.3431560833
@@ -60,13 +51,7 @@ Here are some ideas to get you started:
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white
           alt=""
-        /> <img
-          key=455002.8438588855
-          style = "margin: 5px 5px;"
-          src=https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white
-          alt=""
-        /> 
-       </br>
+        />
       <img
           key=260018.55149817374
           style = "margin: 5px 5px;"
@@ -76,6 +61,25 @@ Here are some ideas to get you started:
           key=134720.08112757796
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/jirasoftware-0052CC?style=flat-square&logo=jirasoftware&logoColor=white
+          alt=""
+        /> 
+      </br>
+      <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;"></h3><div ">
+       <h5>💡used as least once</h5>
+      <img
+          key=687884.8130506051
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/python-3581ba?style=flat-square&logo=python&logoColor=white
+          alt=""
+        /> <img
+          key=736368.773299301
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white
+          alt=""
+        /> <img
+          key=455002.8438588855
+          style = "margin: 5px 5px;"
+          src=https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white
           alt=""
         /> </div></div>
   </div>
