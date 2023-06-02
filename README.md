@@ -90,12 +90,12 @@ Here are some ideas to get you started:
     <div className=Preview_contactBadgeDiv__3demU>
       <a href=mailto:gksdidtk123@gmail.com target="_blank">
             <img
-              src="https://img.shields.io/badge/Mail-6667AB?style=flat&logo=Gmail&logoColor=white"
+              src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"
               alt="Mail"
             />
           </a>
       <a href=https://ticssfm.tistory.com/ target="_blank">
-            <img src=https://img.shields.io/badge/TechBlog-7FD2F5?style=flat&logo=Hoppscotch&logoColor=white&link=https://ticssfm.tistory.com// alt="blog" />
+            <img src=https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://ticssfm.tistory.com// alt="blog" />
           </a>
       <a href=https://shade-plum-e48.notion.site/84d766506d4d423ba995ec23ece6b6d5 target="_blank">
             <img src=https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://shade-plum-e48.notion.site/84d766506d4d423ba995ec23ece6b6d5/ alt="notion" />
