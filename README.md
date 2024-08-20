@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20SeoYoung!&fontSize=90)
-
 <!--
 **SEOYOUNG-cloud/SEOYOUNG-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-  [![seoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOYOUNG-cloud&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEOYOUNG-cloud%2FSEOYOUNG-cloud&count_bg=%233D71C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-</div>
-</br>
   
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
   <div key="4">
@@ -104,14 +92,6 @@ Here are some ideas to get you started:
   </div>
    </br>
 </br>
-  <div key="6">
-    <a href = "https://oreuda.kr/">
-      <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=SEOYOUNG-cloud
-        alt="oreuda"
-      />
-    </a>
-  </div>
   
 </div>
 
